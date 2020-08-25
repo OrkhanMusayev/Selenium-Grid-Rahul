@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de433a12-be9d-4290-b652-d69640652cf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gI3Q5xjJVzND43P6Jxn2TceCZU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.Remotetest.test">
+    <configuration name="Remotetest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumGrid.Remotetest" />
+      <module name="SeleniumGrid_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remotetest.test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGrid_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGrid" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGrid.Remotetest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remotetest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGrid_Rahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGrid" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGrid.Remotetest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Remotetest.test" />
+        <item itemvalue="TestNG.Remotetest.test (1)" />
+        <item itemvalue="Application.Remotetest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de433a12-be9d-4290-b652-d69640652cf0" name="Default Changelist" comment="" />
+      <created>1597788259186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597788259186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1549" height="240" key="GridCell.Tab.0.bottom" timestamp="1597876586220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="288" key="GridCell.Tab.0.bottom/0.0.1600.778/1600.0.1600.860@0.0.1600.778" timestamp="1597800588639" />
+    <state width="1549" height="240" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597876586220" />
+    <state width="1549" height="240" key="GridCell.Tab.0.center" timestamp="1597876586220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="288" key="GridCell.Tab.0.center/0.0.1600.778/1600.0.1600.860@0.0.1600.778" timestamp="1597800588639" />
+    <state width="1549" height="240" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597876586220" />
+    <state width="1549" height="240" key="GridCell.Tab.0.left" timestamp="1597876586219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="288" key="GridCell.Tab.0.left/0.0.1600.778/1600.0.1600.860@0.0.1600.778" timestamp="1597800588639" />
+    <state width="1549" height="240" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597876586219" />
+    <state width="1549" height="240" key="GridCell.Tab.0.right" timestamp="1597876586220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="288" key="GridCell.Tab.0.right/0.0.1600.778/1600.0.1600.860@0.0.1600.778" timestamp="1597800588639" />
+    <state width="1549" height="240" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597876586220" />
+    <state x="217" y="0" key="Maven.ArtifactSearchDialog" timestamp="1597800204693">
+      <screen x="0" y="0" width="1600" height="778" />
+    </state>
+    <state x="217" y="0" key="Maven.ArtifactSearchDialog/0.0.1600.778/1600.0.1600.860@0.0.1600.778" timestamp="1597800204693" />
+    <state x="217" y="2" key="Maven.ArtifactSearchDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597789270220" />
+  </component>
+</project>
